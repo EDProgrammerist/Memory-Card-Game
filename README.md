@@ -3,7 +3,7 @@
 <div align="center">
 <br />
 <a href="" target="_blank">
-   <img width="1280" height="720" alt="Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of 10,000 REACT COMPONENTS (6)" src="https://github.com/user-attachments/assets/c12bf4b8-d348-45cf-ae39-2cd0c819caba" />
+   <img width="1280" height="720" alt="memorycard" src="https://github.com/EDProgrammerist/Memory-Card-Game/blob/master/Preview.png?raw=true" />
 
 </a>
 <br />
